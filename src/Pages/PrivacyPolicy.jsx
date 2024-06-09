@@ -65,10 +65,7 @@ const PrivacyPolicy = () => {
           We may update this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of the policy and, in some cases, we may provide you with additional notice.
         </Paragraph>
       </Section>
-      <Section>
-        <SectionTitle>Contact Us</SectionTitle>
-        <Paragraph>If you have any questions about this Privacy Policy, please contact us at [Your Contact Information].</Paragraph>
-      </Section>
+ 
     </Container>
   );
 };

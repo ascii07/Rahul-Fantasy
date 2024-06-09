@@ -9,7 +9,7 @@ const AboutUs = () => {
           <AboutImage src="/about.png" alt="About Us" />
         </ImageSection>
         <Content>
-          <Title>About [Your Fantasy Sports App]</Title>
+          <Title>About Rahul Fantasy Sports App</Title>
           <Description>
             Welcome to [Your Fantasy Sports App], where we turn every sports fan into a manager! Our platform is dedicated to providing the most immersive and engaging fantasy sports experience possible.
           </Description>
